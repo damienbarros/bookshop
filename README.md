@@ -1,2 +1,2 @@
 # bookshop
-Small bookshop project
+Bookshop project backend
